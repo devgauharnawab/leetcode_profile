@@ -2,6 +2,9 @@
 
 ![Leetcode Profile UI](https://photos.google.com/photo/AF1QipPy58ygWM0ytMYMpendDGdh5PetD9YAxhhc9d1W)
 
+![leetcodeclonenetlify](https://github.com/gauharnawab/leetcode_profile/assets/74108518/1217018b-7104-424b-bdb4-96044781a68f)
+
+
 ## Description
 This repository showcases a simple LeetCode-style navigation bar or profile user interface built using Tailwind CSS. This project aims to demonstrate the implementation of basic UI components using Tailwind CSS's utility-first approach for efficient styling and responsiveness.
 
