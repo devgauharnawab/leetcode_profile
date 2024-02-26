@@ -1,6 +1,5 @@
 # LeetCode-Style Navbar or Profile UI
 
-![Leetcode Profile UI](https://photos.google.com/photo/AF1QipPy58ygWM0ytMYMpendDGdh5PetD9YAxhhc9d1W)
 
 ![leetcodeclonenetlify](https://github.com/gauharnawab/leetcode_profile/assets/74108518/1217018b-7104-424b-bdb4-96044781a68f)
 
